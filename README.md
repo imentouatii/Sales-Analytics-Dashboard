@@ -23,9 +23,11 @@ The goal is to demonstrate **Business Intelligence and Data Visualization skills
 ## Tools & Technologies
 
 * Power BI
+* DAX
+* Power Query
+* Microsoft Excel
 * Data Visualization
 * Data Cleaning & Transformation
-* DAX
 
 ---
 
@@ -49,6 +51,6 @@ Page 2 – Detailed Analysis
 ---
 ## Live Dashboard
 
-[Dashboard Power BI :](https://app.powerbi.com/links/gB6AqWGf1M?ctid=b8c19512-2aed-471d-a8d1-9b06e7da786a&pbi_source=linkShare) https://app.powerbi.com/links/gB6AqWGf1M?ctid=b8c19512-2aed-471d-a8d1-9b06e7da786a&pbi_source=linkShare
+Dashboard Power BI : https://app.powerbi.com/links/gB6AqWGf1M?ctid=b8c19512-2aed-471d-a8d1-9b06e7da786a&pbi_source=linkShare
 
 ---
